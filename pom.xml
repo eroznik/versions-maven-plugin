@@ -7,8 +7,9 @@
     <version>50</version>
   </parent>
 
+  <groupId>com.github.eroznik</groupId>
   <artifactId>versions-maven-plugin</artifactId>
-  <version>2.8-SNAPSHOT</version>
+  <version>2.8</version>
   <packaging>maven-plugin</packaging>
 
   <name>Versions Maven Plugin</name>
